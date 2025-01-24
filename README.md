@@ -1,4 +1,4 @@
-Walk through of Andrej Karpathy's youtube series, my code: `.py`
+Walk through of Andrej Karpathy's youtube series.
 
 
 # makemore
